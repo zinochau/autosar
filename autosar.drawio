@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6" pages="2">
   <diagram name="CANSM" id="qXhpSovOXRVXzEbgl1qt">
-    <mxGraphModel dx="2605" dy="1353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1495" dy="361" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,11 +161,29 @@
         <mxCell id="FXF17FPSzdfnoNykKVTq-46" value="T_START_WAKEUP_SOURCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="931" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BhjoARzyWBzXQ-R1dYIk-1" value="T_START_WAKEUP_SOURCE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-544" y="338" width="179" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uehdeWmYXHykT7qIKBi-1" value="CanSM_StartWakeUpSource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-322" y="338" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uehdeWmYXHykT7qIKBi-2" value="T_FULL_COM_MODE_REQUEST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="386" width="186" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uehdeWmYXHykT7qIKBi-3" value="T_STOP_WAKEUP_SOURCE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-544" y="428" width="171" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uehdeWmYXHykT7qIKBi-4" value="CanSM_RequestComMode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="386" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1uehdeWmYXHykT7qIKBi-5" value="CanSM_StopWakeUpSource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-317" y="432" width="159" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="BZMAW193DSKiFVQqKYVA" name="COMM">
-    <mxGraphModel dx="1042" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
